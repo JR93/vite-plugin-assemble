@@ -1,0 +1,10 @@
+{
+  "name": "vite-plugin-assemble",
+  "version": "0.1.0",
+  "description": "Vite plugin for Assemble.",
+  "main": "index.js",
+  "author": "John <gjr_china@163.com>",
+  "dependencies": {
+    "assemble": "^0.24.3"
+  }
+}
